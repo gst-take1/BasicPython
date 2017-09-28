@@ -22,6 +22,7 @@ print('Updated value of tot: %15d'  %(tot))
 
 print
 
+
 #print('Initial value of tot: %15d'  %(tot))
 print ("{0:25s}: {1:5d}".format("Initial value of tot", tot))
 

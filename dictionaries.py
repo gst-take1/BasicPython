@@ -7,3 +7,5 @@ dict['School'] = "DPS School"; # Add new entry
 
 print "dict['Age']: ", dict['Age']
 print "dict['School']: ", dict['School']
+
+print(dict.keys());

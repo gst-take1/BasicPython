@@ -12,3 +12,6 @@ if len(arr) > 6 and len(arr) <= 10:
     print('Array %(array)s is a medium sized ..array of length %(len)d' % {"array": 'arr', "len":len(arr)});
 
 print "arr[1:5]", arr[1:5]
+
+for i in range(8):
+    print i
